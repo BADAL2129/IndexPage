@@ -1,0 +1,24 @@
+/* #ram{
+    background-color: red;
+    color:rgb(22, 24, 24);
+}
+.class{
+    background-image: url('index.jpg.jpeg');
+    background-color: aquamarine;
+    background-size: auto;
+    
+    background-position: top center;
+} */
+#ram{
+    width: 150px;
+    height: 200px;
+    border: 5px dashed rgb(221, 27, 27);
+    content: center;
+    
+    background-color: rgb(203, 212, 212);
+    
+    padding: 100px solid green;
+    margin:150px 100px 50px 100px;
+    border-radius: 10px;
+
+}
